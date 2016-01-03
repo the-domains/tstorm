@@ -1,0 +1,28 @@
+name: tstorm
+favicon: null
+layout_spectrum: 0.08844180312007666
+typography_spectrum: 0.08079265407286584
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.11813935753889382
+  lightness: 0.6767925638705492
+  saturation: 0.9860969360452145
+  rhythmicContrast: 0.9013438122346997
+purpose: []
